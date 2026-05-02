@@ -4,8 +4,6 @@
 :HL["/ss-zwei.jpg","image"]
 :HL["/ss-onet.jpg","image"]
 :HL["/ss-partner-agent.jpg","image"]
-:HL["/ss-ibj.jpg","image"]
-:HL["/ss-zexy.jpg","image"]
 :HL["/ss-mars-cafe.jpg","image"]
 :HL["/ss-smartread.jpg","image"]
 :HL["/ss-ringbell.jpg","image"]
@@ -16,4 +14,4 @@
 :HL["/ss-naco-do.jpg","image"]
 :HL["/ss-sunmarie.jpg","image"]
 :HL["/ss-en-konkatsu.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"lyvYtTr1UaUtI0wn7k5TD"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xn1W4DKkd8aq5PkY5kLpZ"}
