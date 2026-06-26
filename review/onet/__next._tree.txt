@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/0cihib3n9xl1-.css","style"]
-:HL["/_next/static/chunks/0ft0yjl~qp8nj.css","style"]
+:HL["/_next/static/chunks/03jq_uj1pwogw.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ss-onet.jpg","image"]
 :HL["/editor-team.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"onet","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LO9RMaASjY_v33LpLsZJ2"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"onet","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KT-NTtZ1oo9nJinIChoBo"}
