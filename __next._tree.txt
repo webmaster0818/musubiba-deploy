@@ -19,4 +19,5 @@
 :HL["/ss-folli-partner.jpg","image"]
 :HL["/ss-hero-marriage.jpg","image"]
 :HL["/ss-excellence-aoyama.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"WVHp61oRHuT22VizwIb1Q"}
+:HL["/ss-ibj-members.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"yL0D2aetU4e-IPJuRw5Up"}
