@@ -20,4 +20,6 @@
 :HL["/ss-hero-marriage.jpg","image"]
 :HL["/ss-excellence-aoyama.jpg","image"]
 :HL["/ss-ibj-members.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"b5bufvwZM1ZIGL69fTttY"}
+:HL["/ss-pitto.jpg","image"]
+:HL["/ss-bellroad.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"dUEU5RC6AzPyrl-ExMyPp"}
