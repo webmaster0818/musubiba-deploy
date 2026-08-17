@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0cihib3n9xl1-.css","style"]
+:HL["/_next/static/chunks/02rj8x_smd6ub.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"agency","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E5%9C%B0%E5%9F%9F%E5%AF%86%E7%9D%80%E5%9E%8B-%E5%85%A5%E5%80%89%E7%B5%90%E5%A9%9A%E7%9B%B8%E8%AB%87%E6%89%80-e877","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"fYHuxCjZUiX2kxRDzWIJ7"}
