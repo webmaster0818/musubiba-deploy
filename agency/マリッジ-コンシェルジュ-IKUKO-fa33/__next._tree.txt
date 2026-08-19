@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0cihib3n9xl1-.css","style"]
 :HL["/_next/static/chunks/02rj8x_smd6ub.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"agency","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E3%83%9E%E3%83%AA%E3%83%83%E3%82%B8-%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5-IKUKO-fa33","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"jqxw7O_susVNQu45a6LES"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"agency","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E3%83%9E%E3%83%AA%E3%83%83%E3%82%B8-%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5-IKUKO-fa33","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XhGq6m59_TTIEaElLeCtW"}
